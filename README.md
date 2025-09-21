@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AI-Powered-Marketplace-Assistant-for-Local-Artisans
-AI-powered marketplace connecting Indian artisans with global digital audiences.
-=======
 
   # AI-Powered Artisan Marketplace
 
@@ -13,4 +9,3 @@ AI-powered marketplace connecting Indian artisans with global digital audiences.
 
   Run `npm run dev` to start the development server.
   
->>>>>>> ab3dd4a (Add full project files)
